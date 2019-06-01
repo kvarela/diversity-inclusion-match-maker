@@ -1,0 +1,16 @@
+{
+    "defaultSeverity": "error",
+    "extends": ["tslint-config-airbnb", "tslint-eslint-rules"],
+    "jsRules": {},
+    "rules": {
+        "ter-indent": [true, 4],
+        "semicolon": false,
+        "quotemark": false,
+        "no-increment-decrement": false,
+        "trailing-comma": false,
+        "no-parameter-reassignment": false,
+        "radix": false,
+        "max-line-length": 120
+    },
+    "rulesDirectory": []
+}

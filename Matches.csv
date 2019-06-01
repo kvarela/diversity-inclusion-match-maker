@@ -1,0 +1,12 @@
+user_id_a,user_name_a,user_id_b,user_name_b,company_id,company_name,identity_difference,common_interests,common_how_to_meet
+12,Jeremy,21,Eileen,12345,Initech,"unsure,male,american,white,scandinavian,jewish,icelandic,female","photography","coffee,tea,lunch",
+4,Nicole,14,Steven,12345,Initech,"afro,latinx,female,biracial,african,american,white,male","sports","coffee,tea",
+2,Preeti,1,Sarah,12345,Initech,"america,asian,gujarati,american","cooking","coffee,tea,lunch",
+9,John,11,Michael,12345,Initech,"chinese,america,straight,white","football","coffee,tea,lunch",
+19,Joshua,6,George,12345,Initech,"multiracial,black,filipino,indigenous","reading","coffee,tea",
+20,Ricardo,22,Stephen,12345,Initech,"african,peurto,rican","live,music","coffee,tea",
+5,Karen,16,Thomas,12345,Initech,"eastern,european,catholic,unknown gender,white,male","outdoors","coffee,tea",
+13,Nathan,17,Solomon,12345,Initech,"white,jewish,muslim,middle,eastern","restaurants","coffee,tea",
+3,Raj,15,David,12345,Initech,"first,generation,indian,black","love","coffee,tea",
+18,Monique,7,James,12345,Initech,"white,bread,multigrain,walking,stereotype,german,scottish,welsh,coastal,villages,new,england,female,american,unsure,male","running,technology,video,games","coffee,tea,lunch",
+8,Abigail,10,Stacy,12345,Initech,"white,jewish,south,american,immigrant","hiking,traveling,movies,drinking,coffee","coffee,tea,lunch",
