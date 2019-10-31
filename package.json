@@ -12,7 +12,7 @@
         "@types/csv-parse": "^1.1.12",
         "@types/get-stream": "^3.0.2",
         "commander": "^2.20.0",
-        "csv-parse": "^4.4.1",
+        "csv-parse": "^4.4.6",
         "get-stream": "^5.1.0",
         "tslint-config-airbnb": "^5.11.1"
     }
